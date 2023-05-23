@@ -4,7 +4,7 @@ const cors = require('cors');
 const dotenv = require('dotenv').config()
 var fs = require('fs');
 const path = require('node:path');
-
+// kommentar
 
 var staticResource = '/home/kebabkent/Documents/crawling_react/public';
 var file = require(staticResource + '/screenshot_list.json')
